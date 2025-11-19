@@ -3,12 +3,12 @@
  * Disciplina: Algoritmos e Programação II
  *
  * GRUPO:
- *   10740428 - Henrique cunha alves
- *   10438660 - Gustavo francisco toito
+ *   10740428 - Henrique Cunha Alves
+ *   10438660 - Gustavo Francisco Toito
  *   10736785 - Guilherme Longo Gouveia Xavier
  *
  * Link do vídeo no YouTube:
- *   https://www.youtube.com/seu_link_aqui
+ *    
  */
 
 #include <stdio.h>
